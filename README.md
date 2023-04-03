@@ -3,7 +3,7 @@
 <img src="https://github.com/golddrone7/golddrone7.github.io/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B5%AC%EC%83%81%EB%8F%84/img/sonagi.gif" width="1080" height="720"/>
 
 ## 1. 개요 
-- (임시) 신조어 암기 게임(소나기)
+- (임시) 신조어 암기 게임(소나기)11
 
 ## 2. 게임 흐름 
 - 인트로 -> 사용자 입력 -> 게임 진행 ->  결과 확인 및 게임당 점수 기록, 단어 뜻 보여주기 
