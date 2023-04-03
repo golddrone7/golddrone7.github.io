@@ -3,7 +3,7 @@
 <img src="https://github.com/golddrone7/golddrone7.github.io/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B5%AC%EC%83%81%EB%8F%84/img/sonagi.gif" width="1080" height="720"/>
 
 # 😄소나기 게임에 오신걸 환영합니다!😄
-- <a href="https://golddrone7.github.io/)">0. 소나기 게임 하러가기</a>
+- <a href="https://golddrone7.github.io/")>0. 소나기 게임 하러가기</a>
 - 협업 프로젝트 2번째!
 - <a href="#a">1. 개발 배경</a>
 - <a href="#b">2. 개발 목표</a>
