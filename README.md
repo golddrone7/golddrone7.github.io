@@ -1,4 +1,4 @@
-# JSminigames
+# 소나기 게임
 
 <img src="https://github.com/golddrone7/golddrone7.github.io/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B5%AC%EC%83%81%EB%8F%84/img/sonagi.gif" width="1080" height="720"/>
 
