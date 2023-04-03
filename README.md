@@ -13,7 +13,7 @@
 - <a href="#g">7. 개발 내용</a>
 - <a href="#h">8. 개발 팀원</a>
 - <a href="#i">9. 회고록</a>
-- <a href="https://github.com/golddrone7/golddrone7.github.io/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B5%AC%EC%83%81%EB%8F%84/%EC%86%8C%EB%82%98%EA%B8%B0%20project.pdf"></a>
+- <a href="https://github.com/golddrone7/golddrone7.github.io/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B5%AC%EC%83%81%EB%8F%84/%EC%86%8C%EB%82%98%EA%B8%B0%20project.pdf">소나기 게임.pdf</a>
 
 ---
 
